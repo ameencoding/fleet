@@ -1,0 +1,11 @@
+1: number of fleets must be 5 sequence fleets.
+2: add a count under of each reaction.
+_____________________________________________
+
+-------------Feature-------------
+3:  a USER could post a fleet. 😊
+
+
+-------------ISSUES------------
+* the card is updated well, but the progress should be full.
+* after that remove the eventListener. 
