@@ -1,4 +1,4 @@
-# fleet
+# fleet project
 This is a fleet/status project.
 it has almost different functionality. such as stop start. make a reaction by double clicking the statusCard.
 there's a default fleets that's in there so feel free.
